@@ -7,6 +7,9 @@ Note: We first went on with ESP8266 wifi module but connecting it is a very diff
 
 Now coming towards the connection part, I will upload the circuit diagram to help out new learners or other people who want to make similar things.
 
+![project assets-01](https://user-images.githubusercontent.com/82446510/163727755-fd5e6cf8-646a-49cf-9201-8a3ed3d4b831.jpg)
+
+
 The libraries used externally are (all the external libraries will be added in the code section):
 1) MQ135 Master to get ppm values fro ch4, co3 and nh3.
 2) Esp8266 Library along with board controller has been used.
